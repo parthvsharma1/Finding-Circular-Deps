@@ -1,0 +1,6 @@
+[submodule "TestClasses"]
+	path = TestClasses
+	url = ./TestClasses
+[submodule "LibraryCode"]
+	path = LibraryCode
+	url = ./LibraryCode
