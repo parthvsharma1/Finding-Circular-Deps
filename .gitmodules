@@ -1,6 +1,6 @@
 [submodule "TestClasses"]
 	path = TestClasses
-	url = ./TestClasses
+	url = https://github.com/parthvsharma1/TestClasses.git
 [submodule "LibraryCode"]
 	path = LibraryCode
-	url = ./LibraryCode
+	url = https://github.com/parthvsharma1/Library-Code.git
